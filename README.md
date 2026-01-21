@@ -19,3 +19,8 @@ https://www.milanjovanovic.tech/blog/what-is-a-modular-monolith
 ⚡ Micro Frontend — The Complete Guide  
 #
 https://www.geeksforgeeks.org/blogs/what-are-micro-frontends-definition-uses-architecture/
+
+##
+⚡ Building Scalable Modular Monoliths with Spring Boot Modulith: | From Monolith to Modular.
+#
+https://medium.com/@vinodjagwani/building-scalable-modular-monoliths-with-spring-boot-modulith-from-monolith-to-modular-d95989f47d2c
