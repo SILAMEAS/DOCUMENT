@@ -1,4 +1,4 @@
-This is my document that I got by my research with my real experience 
+## This is my document that I got by my research with my real experience.  
 
 
 🎨 Frontend Technology Choices Explained : https://bubble-capri-5ad.notion.site/Frontend-Technology-Choices-Explained-2ef92ffac3b7805c8694c2b4517adf11
