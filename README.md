@@ -26,6 +26,11 @@ https://www.geeksforgeeks.org/blogs/what-are-micro-frontends-definition-uses-arc
 https://medium.com/@vinodjagwani/building-scalable-modular-monoliths-with-spring-boot-modulith-from-monolith-to-modular-d95989f47d2c
 
 ##
-⚡ Scan DTO from SpringBoot for front end
+⚡ ⚡ (TanStack Query) Scan DTO and auto create end  point from SpringBoot → Frontend
 #
-https://bubble-capri-5ad.notion.site/Scan-DTO-from-SpringBoot-for-front-end-2f192ffac3b780f7af86d5d7b13adb4e?pvs=74
+https://bubble-capri-5ad.notion.site/TanStack-Query-Scan-DTO-and-auto-create-end-point-from-SpringBoot-Frontend-2f192ffac3b780d0861cd32bcfcb75ba
+
+##
+⚡ ⚡ (RTK Query) Scan DTO and auto create end  point from SpringBoot → Frontend
+#
+https://bubble-capri-5ad.notion.site/RTK-Query-Scan-DTO-and-auto-create-end-point-from-SpringBoot-Frontend-2f192ffac3b780f7af86d5d7b13adb4e
