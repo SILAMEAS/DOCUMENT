@@ -24,3 +24,8 @@ https://www.geeksforgeeks.org/blogs/what-are-micro-frontends-definition-uses-arc
 ⚡ Building Scalable Modular Monoliths with Spring Boot Modulith: | From Monolith to Modular.
 #
 https://medium.com/@vinodjagwani/building-scalable-modular-monoliths-with-spring-boot-modulith-from-monolith-to-modular-d95989f47d2c
+
+##
+⚡ Scan DTO from SpringBoot for front end
+#
+https://bubble-capri-5ad.notion.site/Scan-DTO-from-SpringBoot-for-front-end-2f192ffac3b780f7af86d5d7b13adb4e?pvs=74
